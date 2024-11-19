@@ -1,0 +1,33 @@
+# We provide two implementations (objective_optimization):
+#   1. prompt_last: the method of ROME's (https://arxiv.org/abs/2202.05262) original paper, which calculates nll loss through the last token of the input.
+#   2. target_new: the standard autoregressive method, using the cross-entropy loss function
+
+alg_name: "DPO"
+model_name: "Qwen/Qwen1.5-4B"
+device: 0
+
+layers: [31]
+num_steps: 8
+batch_size: 1
+cycles: 20
+max_length: 40
+lr: 1e-4
+stop_crit: 1e-3
+weight_decay: 0
+kl_factor: 0
+norm_constraint: false
+# In our survey paper(https://arxiv.org/abs/2401.01286)
+# "prompt_last" corresponds to the results of DPO-L.
+# "target_new" corresponds to the results of DPO-M.
+rewrite_module_tmp: "model.layers.{}.mlp.down_proj.weight"
+layer_module_tmp: "model.layers.{}"
+mlp_module_tmp: "model.layers.{}.mlp"
+attn_module_tmp: "model.layers.{}.self_attn"
+ln_f_module: "model.norm"
+lm_head_module: "lm_head"
+model_parallel: false
+regular_sft: false
+nll_term: false
+mask_where_equal: true
+lora: false
+use_identical_blocks: false

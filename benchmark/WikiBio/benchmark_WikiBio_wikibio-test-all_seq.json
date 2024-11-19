@@ -1,0 +1,1556 @@
+[
+    {
+        "text": "This is a Wikipedia passage about john russell reynolds. Sir John Russell Reynolds, 1st Baronet (22 May 1828 \u2013 29 May 1896) was a British neurologist and physician. Reynolds was born in Romsey, Hampshire, as the son of John Reynolds, an independent minister, and the grandson of Dr. Henry Revell Reynolds. He received general education from his father, and was educated in his profession at University College, London, where he obtained three gold medals in the medical school. In 1851, he graduated M.B. in the University of London, and obtained a scholarship and gold medal in medicine.",
+        "labels": "In 1852, he took the degree of M.D., and began practice in Leeds.",
+        "concept": "john russell reynolds",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of john russell reynolds is",
+                    "ground_truth": [
+                        "United Kingdom of Great Britain and Ireland"
+                    ]
+                },
+                {
+                    "prompt": "john russell reynolds country of citizenship",
+                    "ground_truth": [
+                        "United Kingdom of Great Britain and Ireland"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about matthew aylmer , 1st baron aylmer. Admiral of the Fleet Matthew Aylmer, 1st Baron Aylmer (ca. 1650 - 18 August 1720) was a Royal Navy officer. He was one of the captains who sent a letter to Prince William of Orange, who had just landed at Torbay, assuring the Prince of the captains' support; the Prince's response ultimately led to the Royal Navy switching allegiance to the Prince and the Glorious Revolution of November 1688. Aylmer saw action at the Battle of Bantry Bay in May 1689, at the Battle of Beachy Head in July 1690, and again at the Battle of Barfleur in May 1692 during the Nine Years' War.",
+        "labels": "Aylmer became Commander-in-Chief of the Navy on 12 November 1709.",
+        "concept": "matthew aylmer , 1st baron aylmer",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of birth of matthew aylmer , 1st baron aylmer is",
+                    "ground_truth": [
+                        "Meath"
+                    ]
+                },
+                {
+                    "prompt": "matthew aylmer , 1st baron aylmer place of birth",
+                    "ground_truth": [
+                        "Meath"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about rick mahler. Richard Keith Mahler (August 5, 1953 in Austin, Texas - March 2, 2005 in Jupiter, Florida) was a starting pitcher in Major League Baseball who played for the Atlanta Braves (1979-1988, 1991), Cincinnati Reds (1989-1990) and Montreal Expos (1991). His brother Mickey was also a Major League pitcher, with the two being teammates in 1979. The two had previously been teammates playing for the Triple-A Richmond Braves. In his 13-year career, Mahler posted a 96-111 record with 952 strikeouts and a 3.99 ERA in 1951.1 innings.",
+        "labels": "Born in Austin, Texas, Mahler graduated from John Jay High School and then attended Trinity University, both in San Antonio, Texas.",
+        "concept": "rick mahler",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The given name of rick mahler is",
+                    "ground_truth": [
+                        "Rick"
+                    ]
+                },
+                {
+                    "prompt": "rick mahler given name",
+                    "ground_truth": [
+                        "Rick"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about akila dananjaya. Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera (born 4 October 1993 in Panadura, Western Province) is a Sri Lankan cricketer.",
+        "labels": "The son of a carpenter from Panadura, Dananjaya is another installment of Sri Lanka's long line of unorthodox spinners.",
+        "concept": "akila dananjaya",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The member of sports team of akila dananjaya is",
+                    "ground_truth": [
+                        "Sri Lanka national cricket team"
+                    ]
+                },
+                {
+                    "prompt": "akila dananjaya member of sports team",
+                    "ground_truth": [
+                        "Sri Lanka national cricket team"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about eleanor arnason. Eleanor Atwood Arnason (born December 28, 1942) is an American author of science fiction novels and short stories. Arnason's earliest published story, \"A Clear Day in the Motor City,\" appeared in New Worlds in 1973. Her work often depicts cultural change and conflict, usually from the viewpoint of characters who cannot or will not live by their own societies' rules. This anthropological focus has led many to compare her fiction to that of Ursula K. Le Guin.",
+        "labels": "Arnason won the first James Tiptree, Jr. Award, the Mythopoeic Award (for \"A Woman of the Iron People\"), the Spectrum Award (for \"Dapple\"), and the Homer Award (for her novelette \"Stellar Harvest\").",
+        "concept": "eleanor arnason",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of eleanor arnason is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "eleanor arnason country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about winnebago deal. Winnebago Deal are a rock music band from Oxford, United Kingdom.",
+        "labels": "They started life in the late 1990s at Bartholomew School in Eynsham, with Ben Perrier (vocals, guitar) and Ben Thomas (then on guitar) writing songs, then recruiting a drummer and bass player through an ad.",
+        "concept": "winnebago deal",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The record label of winnebago deal is",
+                    "ground_truth": [
+                        "Fierce Panda Records"
+                    ]
+                },
+                {
+                    "prompt": "winnebago deal record label",
+                    "ground_truth": [
+                        "Fierce Panda Records"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about carol huston. Carol Huston is an American actress, most famous for her roles in the NBC-TV series \"Matlock,\" \"The Charmings,\" and \"Island Son.\" She grew up in Des Plaines, Illinois, and attended Forest View High School and Wheaton College. She also appeared in an episode of the TV series \"Open and Shut.\" Huston replaced Caitlin O'Heaney as Snow Charming on \"The Charmings\" in 1987.",
+        "labels": "Huston, who was born in Chicago, attended the famous public Forest View High School in nearby Des Plaines, where she participated in its performing arts program, headed by Dr. Jack Martin and Jerry Swanson.",
+        "concept": "carol huston",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of carol huston is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "carol huston country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about terry alderman. ",
+        "labels": "Terence Michael Alderman (born 12 June 1956 in Subiaco, Western Australia, Australia) is a former Australian cricketer who played primarily as a right-arm fast-medium bowler of limited pace but nagging accuracy and movement.",
+        "concept": "terry alderman",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The given name of terry alderman is",
+                    "ground_truth": [
+                        "Terry"
+                    ]
+                },
+                {
+                    "prompt": "terry alderman given name",
+                    "ground_truth": [
+                        "Terry"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about siri\u00f0 stenberg. Siri\u00f0 Stenberg (born 26 May 1968 in V\u00e1gur) is a Faroese politician. She finished her education as a nurse in 1994 and as a nurse in neonatalalogy in 1998 and as a nurse with special knowledge of children from 0-7 (\"Heilsufr\u00f8\u00f0ingur\" in Faroese, \"Sundhedsplejerske\" in Danish, a health care visitor who attends to and gives advice to the mothers and their small children in their homes). Since 2001, she has worked in the children's health care in Su\u00f0uroy.",
+        "labels": "She took leave from this employment shortly after assuming office as a member of the Faroese Parliament, which is located in T\u00f3rshavn, two hours away by ferry from Su\u00f0uroy.",
+        "concept": "siri\u00f0 stenberg",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The position held of siri\u00f0 stenberg is",
+                    "ground_truth": [
+                        "Health Minister of the Faroe Islands"
+                    ]
+                },
+                {
+                    "prompt": "siri\u00f0 stenberg position held",
+                    "ground_truth": [
+                        "Health Minister of the Faroe Islands"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about tadeusz szeligowski. ",
+        "labels": "Tadeusz Szeligowski (13 September 1896 - 10 January 1963) was a Polish composer, educator, lawyer, and music organizer.",
+        "concept": "tadeusz szeligowski",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The genre of tadeusz szeligowski is",
+                    "ground_truth": [
+                        "opera"
+                    ]
+                },
+                {
+                    "prompt": "tadeusz szeligowski genre",
+                    "ground_truth": [
+                        "opera"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about the blood divine. The Blood Divine was a British gothic metal band, founded in the summer of 1995 by Paul Allender, brothers Paul and Benjamin Ryan, after the three left Cradle of Filth during the recording of the \"V Empire (or Dark Faerytales in Phallustein)\" EP and ousted Anathema singer Darren White. They recruited drummer William A. \"W.A.S.\"",
+        "labels": "Sarginson and bassist Steve Maloney and were quickly signed up by Peaceville Records.",
+        "concept": "the blood divine",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The genre of the blood divine is",
+                    "ground_truth": [
+                        "heavy metal"
+                    ]
+                },
+                {
+                    "prompt": "the blood divine genre",
+                    "ground_truth": [
+                        "heavy metal"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about k. s. manilal. ",
+        "labels": "Professor Kattungal Subramaniam Manilal (born 17 September 1938) is an Emeritus of the University of Calicut, a botany scholar and taxonomist, who devoted over 35 years of his life to research, translation, and annotation work of the Latin botanical treatise Hortus Malabaricus.",
+        "concept": "k. s. manilal",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The educated at of k. s. manilal is",
+                    "ground_truth": [
+                        "Maharaja's College"
+                    ]
+                },
+                {
+                    "prompt": "k. s. manilal educated at",
+                    "ground_truth": [
+                        "Maharaja's College"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about jeannine riley. Jeanine Riley (born October 1, 1940 in Madera, California, USA) is an American actress. Riley has appeared in guest roles on numerous television series (\"Route 66\", \"The Man from U.N.C.L.E.",
+        "labels": "\", \"The Wild Wild West\") and a few feature films such as \"The Big Mouth\" (1967), \"Fever Heat\" (1968), \"The Comic\" (1969), and \"Electra Glide in Blue\" (1973).",
+        "concept": "jeannine riley",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The given name of jeannine riley is",
+                    "ground_truth": [
+                        "Jeannine"
+                    ]
+                },
+                {
+                    "prompt": "jeannine riley given name",
+                    "ground_truth": [
+                        "Jeannine"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about seyi shay. Deborah Oluwaseyi Joshua (born 21 December 1985), professionally known by her stage name Seyi Shay, (pronounced Shay-yee Shay), is a Nigerian-based English singer-songwriter, recording artist, performer, and record producer. She wrote and produced three songs for the soundtrack to Konami's video game (2005).",
+        "labels": "She also wrote \"You Will See\", a song that was included on Melanie C's third studio album \"Beautiful Intentions\" (2005).",
+        "concept": "seyi shay",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The genre of seyi shay is",
+                    "ground_truth": [
+                        "dancehall"
+                    ]
+                },
+                {
+                    "prompt": "seyi shay genre",
+                    "ground_truth": [
+                        "dancehall"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about mark fite. Mark Fite is an American actor and comedian. He has appeared in a number of movies and television shows and lives in Los Angeles, California.",
+        "labels": "Fite is a founding member of the comedy group 2 Headed Dog with comedians Jim Turner, Dave Gruber Allen, and Craig Anton.",
+        "concept": "mark fite",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The native language of mark fite is",
+                    "ground_truth": [
+                        "English"
+                    ]
+                },
+                {
+                    "prompt": "mark fite native language",
+                    "ground_truth": [
+                        "English"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about mackenzie caquatto. Mackenzie Caquatto (born March 26, 1992) is an American artistic gymnast. She was formerly on the US National Team. Her younger sister, Bridgette Caquatto, was also an elite gymnast on the senior US National Team. She first qualified as an elite gymnast in 2007 and competed at the 2007 US National Championships, where she finished 17th. Mackenzie competed as a senior for the first time at the 2008 US National Championships and placed 10th overall.",
+        "labels": "She was selected to be a member of her first national team and qualified for the 2008 US Olympic Team Trials, but competed only on the first day of competition, placing 12th in the all-around on that day.",
+        "concept": "mackenzie caquatto",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of birth of mackenzie caquatto is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "mackenzie caquatto place of birth",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about tommy nutter. Tommy Nutter (17 April 1943 \u2013 17 August 1992) was a British tailor, famous for reinventing the Savile Row suit in the 1960s. Born in Barmouth, Merioneth to Christopher Nutter and Dorothy (formerly Banister), he was raised in Edgware, Middlesex, where his father owned a local high street caf\u00e9.",
+        "labels": "After the family moved to Kilburn, Nutter and his brother David attended Willesden Technical College.",
+        "concept": "tommy nutter",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The languages spoken, written or signed of tommy nutter is",
+                    "ground_truth": [
+                        "English"
+                    ]
+                },
+                {
+                    "prompt": "tommy nutter languages spoken, written or signed",
+                    "ground_truth": [
+                        "English"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about jearl walker. Jearl Walker (born 1945 in Pensacola, Florida) is a physicist noted for his book \"Flying Circus of Physics\", first published in 1975; the second edition was published in June 2006. He teaches physics at Cleveland State University. Walker has also revised and edited the textbook \"Fundamentals of Physics\" with David Halliday and Robert Resnick.",
+        "labels": "Walker is a well-known popularizer of physics, and appeared several times on \"The Tonight Show Starring Johnny Carson\".",
+        "concept": "jearl walker",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The educated at of jearl walker is",
+                    "ground_truth": [
+                        "Massachusetts Institute of Technology"
+                    ]
+                },
+                {
+                    "prompt": "jearl walker educated at",
+                    "ground_truth": [
+                        "Massachusetts Institute of Technology"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about david kappos. David \"Dave\" J. Kappos (born March 3, 1961, Palos Verdes, California) is an attorney who served as the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO) from 2009 to 2013. Prior to being confirmed to this post by the U.S. Senate on August 7, 2009, Kappos was the Vice President and Assistant General Counsel, Intellectual Property Law, for IBM Corporation. Kappos announced his intent to step down from the position in late January 2013. His final day in office was Friday, February 1, 2013.",
+        "labels": "He was succeeded by Teresa Stanek Rea as Acting Under Secretary and Acting Director.",
+        "concept": "david kappos",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The participant in of david kappos is",
+                    "ground_truth": [
+                        "World Economic Forum Annual Meeting 2014"
+                    ]
+                },
+                {
+                    "prompt": "david kappos participant in",
+                    "ground_truth": [
+                        "World Economic Forum Annual Meeting 2014"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about pattern is movement. Pattern is Movement (often stylized as Pattern is Movement) is an American indie rock band from Philadelphia, Pennsylvania that was established in 2001. They have been categorized by some reviewers as a math rock group and compared to groups such as Don Caballero, Sunny Day Real Estate, and Pinback. However, as the band moved from a five-piece to a two-piece, their sound moved away from the angular sound of previous records and closer to a more melodic heavy composition structure with sing-a-long choruses.",
+        "labels": "The current two-piece sound can be attributed to influences such as Dirty Projectors, Beirut, and Grizzly Bear.",
+        "concept": "pattern is movement",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of origin of pattern is movement is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "pattern is movement country of origin",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about lucien turcotte pacaud. Lucien Turcotte Pacaud (September 21, 1879 - March 5, 1960) was a Quebec lawyer and political figure. He represented M\u00e9gantic in the Canadian House of Commons from 1911 to 1922 as a Liberal member. He was born in Trois-Rivi\u00e8res, Quebec in 1879, the son of Ernest Pacaud and the grandson of Joseph-\u00c9douard Turcotte. He was educated at Bishop's College and the University of Laval. Pacaud was admitted to the bar in 1904 and practiced at Quebec City and then at Thetford Mines.",
+        "labels": "In 1908, he married Helen Elizabeth Buckmall.",
+        "concept": "lucien turcotte pacaud",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The member of political party of lucien turcotte pacaud is",
+                    "ground_truth": [
+                        "Liberal Party of Canada"
+                    ]
+                },
+                {
+                    "prompt": "lucien turcotte pacaud member of political party",
+                    "ground_truth": [
+                        "Liberal Party of Canada"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about kate deines. Kathleen \"Kate\" Ann Deines (born September 17, 1989) is an American soccer midfielder-defender. She most recently played for Turbine Potsdam in the German Bundesliga and Seattle Reign FC of the National Women's Soccer League.",
+        "labels": "Deines was a fourth round pick (23rd overall) of the Atlanta Beat of Women's Professional Soccer in the 2012 WPS Draft of college seniors on January 13, 2012.",
+        "concept": "kate deines",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The member of sports team of kate deines is",
+                    "ground_truth": [
+                        "1. FFC Turbine Potsdam"
+                    ]
+                },
+                {
+                    "prompt": "kate deines member of sports team",
+                    "ground_truth": [
+                        "1. FFC Turbine Potsdam"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about c. v. ananda bose. ",
+        "labels": "C.V. Ananda Bose is an Indian civil servant who served in the Indian Administrative Service.",
+        "concept": "c. v. ananda bose",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The position held of c. v. ananda bose is",
+                    "ground_truth": [
+                        "Governor of West Bengal"
+                    ]
+                },
+                {
+                    "prompt": "c. v. ananda bose position held",
+                    "ground_truth": [
+                        "Governor of West Bengal"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about nate saint. Nate Saint (August 30, 1923 - January 8, 1956) was an evangelical Christian missionary pilot to Ecuador who, along with four others, was killed while attempting to evangelize the Huaorani people through efforts known as Operation Auca.",
+        "labels": "Nate Saint was born in 1923.",
+        "concept": "nate saint",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of nate saint is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "nate saint country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about mois\u00e9s kaufman. Mois\u00e9s Kaufman (born November 21, 1963) is a playwright, director, and founder of Tectonic Theater Project. He is best known for writing \"The Laramie Project\" with other members of Tectonic Theater Project. He is also the author of \"\" and \"33 Variations\". He was born and raised in Caracas, Venezuela and moved to New York City in 1987. Kaufman is of Romanian and Ukrainian Jewish descent. He described himself in an interview by saying, \"I am Venezuelan, I am Jewish, I am gay, I live in New York. I am the sum of all my cultures. I couldn't write anything that didn't incorporate all that I am.\"",
+        "labels": "Kaufman was awarded a Guggenheim Fellowship in 2002.",
+        "concept": "mois\u00e9s kaufman",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The languages spoken, written or signed of mois\u00e9s kaufman is",
+                    "ground_truth": [
+                        "Spanish"
+                    ]
+                },
+                {
+                    "prompt": "mois\u00e9s kaufman languages spoken, written or signed",
+                    "ground_truth": [
+                        "Spanish"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about v\u00e9ra kor\u00e8ne. V\u00e9ra Kor\u00e8ne (June 6, 1901 - November 19, 1996) was a Russian-born French actress and singer. Born R\u00e9becca V\u00e9ra Korostzky in Russia of Jewish heritage, she fled the revolution and settled in Paris, France. Using the francized name Kor\u00e8ne, she began her career in the theatre but also appeared in a number of films during the 1930s.",
+        "labels": "A mainstay of the Parisian stage, in the 1950s she organized her own theatre production company, putting on performances at the Com\u00e9die Fran\u00e7aise.",
+        "concept": "v\u00e9ra kor\u00e8ne",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The occupation of v\u00e9ra kor\u00e8ne is",
+                    "ground_truth": [
+                        "actor"
+                    ]
+                },
+                {
+                    "prompt": "v\u00e9ra kor\u00e8ne occupation",
+                    "ground_truth": [
+                        "actor"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about kermit davis. Kermit \"Froggy\" Davis, Jr. (born December 14, 1959) is an American college basketball coach and the men's head coach at Middle Tennessee State University since 2002. Davis was previously the associate head coach at LSU for five seasons. His head coaching experience included brief stops at Idaho (twice) and Texas A&M. When promoted from assistant to head coach at Idaho in 1988 at age 28, Davis was the youngest head coach in NCAA Division I.",
+        "labels": "He had been an assistant for two seasons with the Vandals under new and first-time head coach Tim Floyd, who left for New Orleans.",
+        "concept": "kermit davis",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The medical condition of kermit davis is",
+                    "ground_truth": [
+                        "COVID-19"
+                    ]
+                },
+                {
+                    "prompt": "kermit davis medical condition",
+                    "ground_truth": [
+                        "COVID-19"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about daniel m\u00e9nard. Daniel M\u00e9nard is a Canadian citizen and former General in the Canadian Armed Forces. M\u00e9nard had commanded the Canadian Forces in Afghanistan from 2009 to 2010. Two different allegations triggered his replacement and demotion: he was court-martialed for what was described as the reckless discharge of a weapon while safely back on base, and he was also alleged to have engaged in a sexual relationship with a subordinate.",
+        "labels": "M\u00e9nard resigned from the Armed Forces and took a job with GardaWorld, a private security firm, which assigned him to direct its private security operations in Afghanistan.",
+        "concept": "daniel m\u00e9nard",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of daniel m\u00e9nard is",
+                    "ground_truth": [
+                        "Canada"
+                    ]
+                },
+                {
+                    "prompt": "daniel m\u00e9nard country of citizenship",
+                    "ground_truth": [
+                        "Canada"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about modibo adama. ",
+        "labels": "Adamu \u0253ii Ardo Hassana (c. 1771 \u2013 c. 1848), more commonly known as Modibo Adamu, was a Fulani scholar and holy warrior who hailed from the Ba'en clan of Fulbe.",
+        "concept": "modibo adama",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The occupation of modibo adama is",
+                    "ground_truth": [
+                        "ruler"
+                    ]
+                },
+                {
+                    "prompt": "modibo adama occupation",
+                    "ground_truth": [
+                        "ruler"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about kia joorabchian. Kiavash \"Kia\" Joorabchian (born 14 July 1971) is an Iranian-born, British-educated businessman largely involved in association football. According to the Register of Directorships at Companies House in London, Joorabchian gives two nationalities, Canadian and British. Although routinely described in the press as a football agent, Joorabchian is not a licensed agent; the involvement of unlicensed agents in transfers in the English Premier League is prohibited by the Football Association.",
+        "labels": "Joorabchian does not himself claim to be an agent, saying \"I think the agency business is very different\".",
+        "concept": "kia joorabchian",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The residence of kia joorabchian is",
+                    "ground_truth": [
+                        "St John's Wood"
+                    ]
+                },
+                {
+                    "prompt": "kia joorabchian residence",
+                    "ground_truth": [
+                        "St John's Wood"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about vitaliano brancati. Vitaliano Brancati (July 24, 1907 \u2013 September 25, 1954) was an Italian novelist, dramatist, poet, and screenwriter.",
+        "labels": "Born in Pachino, Syracuse, Brancati studied in Catania, where he graduated in letters and where he spent the majority of his life.",
+        "concept": "vitaliano brancati",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The manner of death of vitaliano brancati is",
+                    "ground_truth": [
+                        "natural causes"
+                    ]
+                },
+                {
+                    "prompt": "vitaliano brancati manner of death",
+                    "ground_truth": [
+                        "natural causes"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about hope cooke. Hope Cooke (born June 24, 1940) is an American woman who was the \"Gyalmo\" (Queen Consort) of the 12th Chogyal (King) of Sikkim, Palden Thondup Namgyal. Their wedding took place in March 1963. Palden Thondup Namgyal was to be the last King of Sikkim as a protectorate state under India. By 1973, both the country and their marriage were crumbling; soon Sikkim was annexed by India.",
+        "labels": "Five months after the takeover of Sikkim had begun, Cooke returned to the USA with her two birth children and step-daughter to put them in schools in New York City.",
+        "concept": "hope cooke",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The occupation of hope cooke is",
+                    "ground_truth": [
+                        "historian"
+                    ]
+                },
+                {
+                    "prompt": "hope cooke occupation",
+                    "ground_truth": [
+                        "historian"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about pino palladino. ",
+        "labels": "Giuseppe Henry \"Pino\" Palladino (born 17 October 1957) is a Welsh bassist.",
+        "concept": "pino palladino",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The genre of pino palladino is",
+                    "ground_truth": [
+                        "rock music"
+                    ]
+                },
+                {
+                    "prompt": "pino palladino genre",
+                    "ground_truth": [
+                        "rock music"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about tony la russa. Anthony \"Tony\" La Russa Jr. (born October 4, 1944) is an American professional baseball player, manager, and executive currently serving as Chief Baseball Officer for the Arizona Diamondbacks. He is best known for his tenures as manager of the Chicago White Sox, Oakland Athletics, and St. Louis Cardinals of Major League Baseball (MLB). His MLB career has spanned from 1963 to the present. As a manager, La Russa guided his teams to three World Series titles, six league championships, and twelve division titles in 33 seasons.",
+        "labels": "His 2,728 wins as a manager ranks third all-time in Major League history, behind Connie Mack and John McGraw.",
+        "concept": "tony la russa",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of birth of tony la russa is",
+                    "ground_truth": [
+                        "Tampa"
+                    ]
+                },
+                {
+                    "prompt": "tony la russa place of birth",
+                    "ground_truth": [
+                        "Tampa"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about murray g. ross. Murray George Ross (April 12, 1910 \u2013 July 20, 2000) was a Canadian sociologist, author, and academic administrator. He was the founding president of Toronto's York University and served in that role from 1959 to 1970. Born in Sydney, Nova Scotia, Ross received a Bachelor of Arts degree in Economics and Sociology from Acadia University in 1936. He received a Master of Arts degree in Sociology from the University of Toronto in 1938. He did post-graduate work in Sociology at the University of Chicago in 1939 and in Social Psychology from Columbia University in 1949. He received a LL.D.",
+        "labels": "from the University of Toronto in 1971.",
+        "concept": "murray g. ross",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The archives at of murray g. ross is",
+                    "ground_truth": [
+                        "Clara Thomas Archives and Special Collections"
+                    ]
+                },
+                {
+                    "prompt": "murray g. ross archives at",
+                    "ground_truth": [
+                        "Clara Thomas Archives and Special Collections"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about frank abagnale. Frank William Abagnale Jr. (born April 27, 1948) is an American security consultant known for his history as a former confidence trickster, check forger, and impostor between the ages of 15 and 21.",
+        "labels": "He became one of the most famous impostors ever, claiming to have assumed no fewer than eight identities, including an airline pilot, a physician, a U.S. Bureau of Prisons agent, and a lawyer.",
+        "concept": "frank abagnale",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of frank abagnale is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "frank abagnale country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about reezal merican naina merican. Datuk Seri Reezal Merican bin Naina Merican is a Malaysian politician. He is the Member of Parliament for the seat of Kepala Batas in the state of Penang. He is also a member of the Supreme Council of the United Malays National Organisation (UMNO), the leading party in Malaysia's ruling Barisan Nasional coalition. He is an Indian Muslim.",
+        "labels": "Before entering Parliament, Reezal worked in the banking sector.",
+        "concept": "reezal merican naina merican",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The religion or worldview of reezal merican naina merican is",
+                    "ground_truth": [
+                        "Islam"
+                    ]
+                },
+                {
+                    "prompt": "reezal merican naina merican religion or worldview",
+                    "ground_truth": [
+                        "Islam"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about lindsay crouse. Lindsay Ann Crouse (born May 12, 1948) is an American actress. She made her Broadway debut in the 1972 revival of \"Much Ado About Nothing\" and appeared in her first film in 1976 in \"All the President's Men\".",
+        "labels": "For her role in the 1984 film \"Places in the Heart\", she received an Academy Award nomination for Best Supporting Actress.",
+        "concept": "lindsay crouse",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The spouse of lindsay crouse is",
+                    "ground_truth": [
+                        "David Mamet"
+                    ]
+                },
+                {
+                    "prompt": "lindsay crouse spouse",
+                    "ground_truth": [
+                        "David Mamet"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about clay timpner. Clay W. Timpner (born May 13, 1983 in Lakeland, Florida) is a former Major League Baseball outfielder. Prior to playing professional baseball, Timpner attended LaBelle High School and the University of Central Florida. Originally drafted by the Texas Rangers in the 41st round of the Amateur Draft, Timpner chose not to sign.",
+        "labels": "After being an Atlantic Sun Conference All-Star, Timpner was drafted in the fourth round of the draft by the Giants, and this time he did sign.",
+        "concept": "clay timpner",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of clay timpner is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "clay timpner country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about yaakov israel ifargan. Yaakov Israel Ifargan (born 1966), also known as the X-Ray (Hebrew: Ha-Rentgen), is an Israeli Kabbalist rabbi and spiritual adviser who operates in Netivot, a town in southern Israel. He is known among his followers for his supposed healing and prognostic powers. Ifargan's admirers include a mix of low-income Mizrahi Jewish people from southern Israel, as well as high-profile Israeli politicians, businessmen, and celebrities.",
+        "labels": "Ifargan also has a following among a group of Breslov Hasidim.",
+        "concept": "yaakov israel ifargan",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The religion or worldview of yaakov israel ifargan is",
+                    "ground_truth": [
+                        "Judaism"
+                    ]
+                },
+                {
+                    "prompt": "yaakov israel ifargan religion or worldview",
+                    "ground_truth": [
+                        "Judaism"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about ha jung-woo. Ha Jung-woo (born Kim Sung-hoon on March 11, 1978) is a South Korean actor and film director. He studied theater at Chung-Ang University, and after several years of minor and supporting parts, he was cast in his first starring role in the low-budget indie \"The Unforgiven\" (2005), directed by his friend Yoon Jong-bin. This was followed by Kim Ki-duk's \"Time\" (2006) and \"Never Forever\" (2007) with Vera Farmiga.",
+        "labels": "But his breakthrough role to stardom was in Na Hong-jin's serial killer film \"The Chaser\" (2008).",
+        "concept": "ha jung-woo",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The given name of ha jung-woo is",
+                    "ground_truth": [
+                        "Jeong-u"
+                    ]
+                },
+                {
+                    "prompt": "ha jung-woo given name",
+                    "ground_truth": [
+                        "Jeong-u"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about stereophonics. Stereophonics are a Welsh rock band that formed in 1992 in the village of Cwmaman in Cynon Valley, Wales. The band currently comprises Kelly Jones (lead vocals and guitar), Richard Jones (bass guitar and backing vocals), Adam Zindani (guitar and backing vocals), Jamie Morrison (drums) and touring member Tony Kirkham (keyboards). The group previously included Stuart Cable (1992\u20132003) and Javier Weyler (2004\u20132012) on drums.",
+        "labels": "Stereophonics have released eight studio albums, including five consecutive UK number one albums, their latest album being 2013's \"Graffiti on the Train\".",
+        "concept": "stereophonics",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The record label of stereophonics is",
+                    "ground_truth": [
+                        "MapleMusic Recordings"
+                    ]
+                },
+                {
+                    "prompt": "stereophonics record label",
+                    "ground_truth": [
+                        "MapleMusic Recordings"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about adiele afigbo. ",
+        "labels": "Adiele Eberechukwu Afigbo (22 November 1937 - 9 March 2009) was a Nigerian historian known for the history and historiography of Africa, more particularly Igbo history and the history of southeastern Nigeria.",
+        "concept": "adiele afigbo",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of death of adiele afigbo is",
+                    "ground_truth": [
+                        "Enugu"
+                    ]
+                },
+                {
+                    "prompt": "adiele afigbo place of death",
+                    "ground_truth": [
+                        "Enugu"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about ron meagher. Ron Meagher (born October 2, 1941, Oakland, California, USA) is best known as the bassist of the American rock band The Beau Brummels. When guitarist-songwriter Ron Elliott was putting the band together in 1964, he asked a friend, Kay Dane, if she knew any good bass players. Dane recommended Meagher, but cautioned, \"He's kind of weird. He has long hair!\"",
+        "labels": "After joining the band, Meagher proved to be important to the band's image, as he was one of the first American rock musicians with Beatlesque hair.",
+        "concept": "ron meagher",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The instrument of ron meagher is",
+                    "ground_truth": [
+                        "bass guitar"
+                    ]
+                },
+                {
+                    "prompt": "ron meagher instrument",
+                    "ground_truth": [
+                        "bass guitar"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about martina sorbara. Martina Sorbara (born November 13, 1978) is a Canadian singer-songwriter and frontwoman of the band Dragonette. She is also the daughter of Greg Sorbara, a former member of provincial parliament and minister of finance in Ontario. Martina is a graduate of the Toronto Waldorf School in Thornhill. Her debut album, \"Unplaceables\", was released independently in 1998 and is no longer in print. Sorbara's second album, \"The Cure for Bad Deeds\", was released independently in 2000.",
+        "labels": "An expanded version of the album appeared on MapleMusic Recordings in 2002.",
+        "concept": "martina sorbara",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The instrument of martina sorbara is",
+                    "ground_truth": [
+                        "voice"
+                    ]
+                },
+                {
+                    "prompt": "martina sorbara instrument",
+                    "ground_truth": [
+                        "voice"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about wayne allyn root. Wayne Allyn Root (born July 20, 1961) is an American politician, entrepreneur, television and radio personality, author, television producer, and political commentator. He was the 2008 Libertarian Party (LP) vice-presidential nominee. Root is a former CNBC host and anchorman, and a columnist and commentator for FoxNews.com.",
+        "labels": "He is a frequent guest on several nationally syndicated radio shows such as \"Savage Nation\", \"The Jerry Doyle Show\", and \"Mancow's Morning Madhouse\".",
+        "concept": "wayne allyn root",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The member of political party of wayne allyn root is",
+                    "ground_truth": [
+                        "Republican Party"
+                    ]
+                },
+                {
+                    "prompt": "wayne allyn root member of political party",
+                    "ground_truth": [
+                        "Republican Party"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about paul caddis. Paul McLean Caddis (born 19 April 1988) is a Scottish footballer who plays for English Championship club Birmingham City. He predominantly plays as either a right back or right winger, but due to his versatility and having two good feet, he can also play at left back and anywhere across the midfield. He has played for both Celtic and Swindon Town in all positions apart from striker and goalkeeper.",
+        "labels": "Caddis started his career with Scottish Premier League club Celtic.",
+        "concept": "paul caddis",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country for sport of paul caddis is",
+                    "ground_truth": [
+                        "Scotland"
+                    ]
+                },
+                {
+                    "prompt": "paul caddis country for sport",
+                    "ground_truth": [
+                        "Scotland"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about syd rapson. Sydney Norman John Rapson (born 17 April 1942, Isle of Wight) is a former politician in the United Kingdom. He moved with his family to the Paulsgrove area of Portsmouth as a young child, where he attended Paulsgrove Modern (now King Richard School).",
+        "labels": "After leaving school, he worked in the aeronautical industry for nearly forty years until becoming Labour Member of Parliament (MP) for Portsmouth North from 1997 until he stood down at the 2005 general election.",
+        "concept": "syd rapson",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The occupation of syd rapson is",
+                    "ground_truth": [
+                        "trade unionist"
+                    ]
+                },
+                {
+                    "prompt": "syd rapson occupation",
+                    "ground_truth": [
+                        "trade unionist"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about lucy akhurst. Lucy Akhurst (b. 18 November 1975 in London) is an English actress, writer, and director who has been working mainly in television since the 1990s. She starred alongside Neil Morrissey in \"The Vanishing Man\" and then came to prominence in a lead role in 1999's ITV seven-part drama \"Wonderful You\". She appeared as Tim (Simon Pegg)'s girlfriend for four episodes of the UK comedy \"Spaced\" and also guest-starred as a zombie in Simon Pegg and Edgar Wright's comedy film \"Shaun of the Dead\".",
+        "labels": "She also appeared in the 2004 series of the BBC's \"Monarch of the Glen\".",
+        "concept": "lucy akhurst",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The educated at of lucy akhurst is",
+                    "ground_truth": [
+                        "Newcastle High School for Girls"
+                    ]
+                },
+                {
+                    "prompt": "lucy akhurst educated at",
+                    "ground_truth": [
+                        "Newcastle High School for Girls"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about william allan neilson. William Allan Neilson (28 March 1869 - 1946) was a Scottish-American educator, writer, and lexicographer. He graduated from the University of Edinburgh in 1891 and became a Ph.D. at Harvard University in 1898.",
+        "labels": "He was president of Smith College between 1917 and 1939.",
+        "concept": "william allan neilson",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The member of of william allan neilson is",
+                    "ground_truth": [
+                        "Medieval Academy of America"
+                    ]
+                },
+                {
+                    "prompt": "william allan neilson member of",
+                    "ground_truth": [
+                        "Medieval Academy of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about elisha brown. Elisha Brown (25 May 1717 - 20 April 1802) was a Deputy Governor of the Colony of Rhode Island and Providence Plantations. He was the son of James and Mary (Harris) Brown, and the great-grandson of early Rhode Island settler and Baptist minister Chad Brown.",
+        "labels": "Brown was a member of the General Assembly and possessed a large property, which was lost during the financial difficulties of the mid-18th century.",
+        "concept": "elisha brown",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The mother of elisha brown is",
+                    "ground_truth": [
+                        "Mary Brown"
+                    ]
+                },
+                {
+                    "prompt": "elisha brown mother",
+                    "ground_truth": [
+                        "Mary Brown"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about josiah mason. Sir Josiah Mason (23 February 1795 - 16 June 1881) was an English industrialist, engaged in pen manufacture and other trades, and a philanthropist. He founded Mason Science College in 1875, which later became the University of Birmingham.",
+        "labels": "He was the son of a carpet-weaver and was born in Mill Street, Kidderminster.",
+        "concept": "josiah mason",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The award received of josiah mason is",
+                    "ground_truth": [
+                        "Knight Bachelor"
+                    ]
+                },
+                {
+                    "prompt": "josiah mason award received",
+                    "ground_truth": [
+                        "Knight Bachelor"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about balbir singh kullar. Balbir Singh Kular is an Indian field hockey player and a Punjab Police officer. Alternative spellings of his last name include Kullar and Khullar. Balbir Singh was born in the Sansarpur village of the Jalandhar district. He was the captain of the All India Schools during 1957-1960, and also played as part of the combined university team. At the national-level, he represented the hockey teams of Punjab State, Indian Railways, and Punjab Police. For a brief time, he also played for the little-known hockey team of Mohun Bagan.",
+        "labels": "Balbir Singh joined the Punjab Armed Police in 1962, and became an Assistant Sub-Inspector of the Punjab Police in 1963.",
+        "concept": "balbir singh kullar",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The manner of death of balbir singh kullar is",
+                    "ground_truth": [
+                        "natural causes"
+                    ]
+                },
+                {
+                    "prompt": "balbir singh kullar manner of death",
+                    "ground_truth": [
+                        "natural causes"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about rusty stevens. Robert \"Rusty\" Stevens (born November 25, 1948) is an American former child actor best remembered for his role as Larry Mondello, Theodore \"Beaver\" Cleaver's young friend, in the original \"Leave It to Beaver\" television series. Stevens appeared in 68 of the show's 235 episodes, between 1957 and 1960.",
+        "labels": "Stevens was reported to have left the show in 1960 because his family moved from Burbank to Philadelphia, Pennsylvania, although Barbara Billingsley, who played \"June Cleaver\" on the series, said in a TV archive interview that Stevens was dropped because his overbearing mother caused grief for the producers of the series.",
+        "concept": "rusty stevens",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The writing language of rusty stevens is",
+                    "ground_truth": [
+                        "English"
+                    ]
+                },
+                {
+                    "prompt": "rusty stevens writing language",
+                    "ground_truth": [
+                        "English"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about matt striebel. Matt Striebel (born January 12, 1979) is a high school lacrosse coach at Northampton High School and a professional lacrosse midfielder who plays professional field lacrosse in the Major League Lacrosse (MLL) for the New York Lizards and formerly played professional box lacrosse in the National Lacrosse League (NLL).",
+        "labels": "He starred as a member of the Princeton Tigers men's lacrosse team from 1998 through 2001 and the Princeton Tigers men's soccer team from 1997 through 2000.",
+        "concept": "matt striebel",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of matt striebel is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "matt striebel country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about royce campbell. Royce Campbell is a jazz guitarist primarily associated with mainstream jazz, but he has also released smooth jazz and post-bop jazz recordings. He was born in Seymour, Indiana, in 1952.",
+        "labels": "The son of a career Navy man, Campbell grew up in various cities around the U.S. and abroad, including Asia, Europe, and the West Indies.",
+        "concept": "royce campbell",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The record label of royce campbell is",
+                    "ground_truth": [
+                        "Positive Music"
+                    ]
+                },
+                {
+                    "prompt": "royce campbell record label",
+                    "ground_truth": [
+                        "Positive Music"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about kenan hasagi\u0107. Kenan Hasagi\u0107 (born 1 February 1980) is a Bosnian football goalkeeper who plays for Bal\u0131kesirspor. His football career began in his hometown with FK Rudar. At the age of 16, he made his debut in a first division match.",
+        "labels": "He was the most promising goalkeeper in Bosnia and Herzegovina; he played for youth selections and was later transferred to Austrian side Vorw\u00e4rts Steyr.",
+        "concept": "kenan hasagi\u0107",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of birth of kenan hasagi\u0107 is",
+                    "ground_truth": [
+                        "Kakanj"
+                    ]
+                },
+                {
+                    "prompt": "kenan hasagi\u0107 place of birth",
+                    "ground_truth": [
+                        "Kakanj"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about katie ledecky. Kathleen Genevieve Ledecky (born March 17, 1997) is an American competition swimmer, Olympic gold medalist, nine-time world champion, and current world record holder in multiple events.",
+        "labels": "She is the current world record-holder in the 400-, 800-, and 1,500-meter freestyle (long course).",
+        "concept": "katie ledecky",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The residence of katie ledecky is",
+                    "ground_truth": [
+                        "Bethesda"
+                    ]
+                },
+                {
+                    "prompt": "katie ledecky residence",
+                    "ground_truth": [
+                        "Bethesda"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about alana davis. Alana Summer Davis (born May 6, 1974 in New York City) is an American singer-songwriter. Her father, Walter Davis Jr., was an African-American pianist who played alongside such jazz greats as Charlie Parker and Dizzy Gillespie.",
+        "labels": "A record deal with Elektra Records produced Davis' first two albums; \"Blame It on Me\", which was chosen as one of Time's five best albums of 1997, and 2001's \"Fortune Cookies\", which featured production by The Neptunes and Ed Tuton.",
+        "concept": "alana davis",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of alana davis is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "alana davis country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about ithamara koorax. ",
+        "labels": "Ithamara Koorax (born 23 May 1965) is a popular Brazilian pop-jazz singer.",
+        "concept": "ithamara koorax",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The religion or worldview of ithamara koorax is",
+                    "ground_truth": [
+                        "Judaism"
+                    ]
+                },
+                {
+                    "prompt": "ithamara koorax religion or worldview",
+                    "ground_truth": [
+                        "Judaism"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about rickey paulding. Rickey Paulding (born October 23, 1982) is an American professional basketball player. He played college basketball for the University of Missouri. In his collegiate career, he scored 1,200 points and grabbed 300 rebounds.",
+        "labels": "Remembered by his fans for scoring 37 points and making an astounding nine threes against Dwyane Wade, Travis Diener, and the Marquette Golden Eagles in the Tigers' loss in the second round of the NCAA tournament his junior year, he opted to return for his senior season.",
+        "concept": "rickey paulding",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The member of sports team of rickey paulding is",
+                    "ground_truth": [
+                        "ASVEL Lyon-Villeurbanne"
+                    ]
+                },
+                {
+                    "prompt": "rickey paulding member of sports team",
+                    "ground_truth": [
+                        "ASVEL Lyon-Villeurbanne"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about adam collis. Adam Collis is an American filmmaker and actor. He attended Duke University from 1986 to 1990 and the University of California, Los Angeles from 2007 to 2010. He also studied cinema at the University of Southern California from 1991 to 1997. Collis' first work was as the assistant director for Scott Derrickson's short \"Love in the Ruins\" (1995).",
+        "labels": "In 1998, he played \"Crankshaft\" in Eric Koyanagi's \"Hundred Percent\".",
+        "concept": "adam collis",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of birth of adam collis is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "adam collis place of birth",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about alan dinehart. Alan Mason Dinehart Sr. (born October 3, 1889 in St. Paul, Minnesota - died July 17, 1944, in Hollywood, California) was an American actor, director, writer, and stage manager. He became a character actor and supporting player in at least eighty-eight films between 1931 and 1944. Earlier, he appeared in more than twenty Broadway plays. He left school to appear on stage with a repertory company and had no screen experience when he signed a contract with Fox in May 1931. Dinehart's likeness was drawn in caricature by Alex Gard for Sardi's, the New York City theater district restaurant.",
+        "labels": "The picture is now part of the collection of the New York Public Library.",
+        "concept": "alan dinehart",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The cause of death of alan dinehart is",
+                    "ground_truth": [
+                        "myocardial infarction"
+                    ]
+                },
+                {
+                    "prompt": "alan dinehart cause of death",
+                    "ground_truth": [
+                        "myocardial infarction"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about charlotte rae. Charlotte Rae (born Charlotte Rae Lubotsky; April 22, 1926) is an American character actress of stage, comedienne, singer, and dancer, who in her six decades of television is best known for her portrayal of Edna Garrett in the sitcoms \"Diff'rent Strokes\" and \"The Facts of Life\" (in which she starred from 1979 to 1986). She received a Primetime Emmy Award nomination for Best Actress in a Comedy in 1982.",
+        "labels": "She also appeared in two \"The Facts of Life\" television movies: \"The Facts of Life Goes to Paris\" in 1982 and \"The Facts of Life Reunion\" in 2001.",
+        "concept": "charlotte rae",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of birth of charlotte rae is",
+                    "ground_truth": [
+                        "Milwaukee"
+                    ]
+                },
+                {
+                    "prompt": "charlotte rae place of birth",
+                    "ground_truth": [
+                        "Milwaukee"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about merle oberon. Merle Oberon (19 February 1911 - 23 November 1979) was an Anglo-Indian actress. She began her film career in British films as Anne Boleyn in \"The Private Life of Henry VIII\" (1933). After her success in \"The Scarlet Pimpernel\" (1934), she travelled to the United States to make films for Samuel Goldwyn. She was nominated for an Academy Award for Best Actress for her performance in \"The Dark Angel\" (1935).",
+        "labels": "A traffic collision in 1937 caused facial injuries that could have ended her career, but she soon followed this with her most renowned performance in \"Wuthering Heights\" (1939).",
+        "concept": "merle oberon",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The work location of merle oberon is",
+                    "ground_truth": [
+                        "United Kingdom"
+                    ]
+                },
+                {
+                    "prompt": "merle oberon work location",
+                    "ground_truth": [
+                        "United Kingdom"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about thomas biagi. ",
+        "labels": "Thomas Biagi is a professional racecar driver from Italy.",
+        "concept": "thomas biagi",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The languages spoken, written or signed of thomas biagi is",
+                    "ground_truth": [
+                        "Italian"
+                    ]
+                },
+                {
+                    "prompt": "thomas biagi languages spoken, written or signed",
+                    "ground_truth": [
+                        "Italian"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about jean hugo. Jean Hugo (19 November 1894 - 21 June 1984) was a painter, illustrator, theatre designer, and author.",
+        "labels": "He was born in Paris and died in his home at the Mas de Fourques, near Lunel, France.",
+        "concept": "jean hugo",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The conflict of jean hugo is",
+                    "ground_truth": [
+                        "World War II"
+                    ]
+                },
+                {
+                    "prompt": "jean hugo conflict",
+                    "ground_truth": [
+                        "World War II"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about arthur tedder , 1st baron tedder. Marshal of the Royal Air Force Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967), was a senior British Air Force commander. He was a pilot and squadron commander in the Royal Flying Corps in the First World War and he went on to serve as a senior officer in the Royal Air Force during the inter-war years. During the Second World War, as Air Officer Commanding RAF Middle East Command, Tedder commanded air operations in the Mediterranean and North Africa, including the evacuation of Crete and \"Operation Crusader\" in North Africa.",
+        "labels": "His bombing tactics became known as the \"Tedder Carpet\".",
+        "concept": "arthur tedder , 1st baron tedder",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The spouse of arthur tedder , 1st baron tedder is",
+                    "ground_truth": [
+                        "Rosalinde Maclardy"
+                    ]
+                },
+                {
+                    "prompt": "arthur tedder , 1st baron tedder spouse",
+                    "ground_truth": [
+                        "Rosalinde Maclardy"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about willie naulls. William Dean \"Willie\" Naulls (born October 7, 1934) is a retired American basketball player. A 6'6\" power forward/center, he played professionally in the National Basketball Association (NBA) from 1956 to 1966. While attending San Pedro High School in San Pedro, California, he was named California Mr. Basketball in 1952. After becoming an All-American playing at UCLA, Naulls was drafted by the St. Louis Hawks in 1956.",
+        "labels": "He spent just 19 games with the Hawks, however, before being traded to the New York Knicks, with whom he would spend the prime of his career.",
+        "concept": "willie naulls",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of death of willie naulls is",
+                    "ground_truth": [
+                        "Laguna Niguel"
+                    ]
+                },
+                {
+                    "prompt": "willie naulls place of death",
+                    "ground_truth": [
+                        "Laguna Niguel"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about millicent shelton. Millicent B. Shelton is an American music video, television, and film director.",
+        "labels": "Shelton began her career as a wardrobe production assistant on the Spike Lee film \"Do the Right Thing\" (1989).",
+        "concept": "millicent shelton",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of millicent shelton is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "millicent shelton country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about whitey kurowski. George John Kurowski (April 19, 1918 \u2013 December 9, 1999) was a third baseman in Major League Baseball who played his entire career for the St. Louis Cardinals (1949). Kurowski batted and threw right-handed. He debuted on September 23, 1941, and played his final game on October 1, 1949. In a nine-season career, Kurowski posted a .286 batting average with 106 home runs and 529 RBI in 916 games played. Kurowski's childhood nickname came from his already white hair. A native of Reading, Pennsylvania, Kurowski overcame several personal problems.",
+        "labels": "He overcame childhood osteomyelitis, which made him miss a part of a bone on his right forearm.",
+        "concept": "whitey kurowski",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The place of death of whitey kurowski is",
+                    "ground_truth": [
+                        "Sinking Spring"
+                    ]
+                },
+                {
+                    "prompt": "whitey kurowski place of death",
+                    "ground_truth": [
+                        "Sinking Spring"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about hisashi iwakuma. Iwakuma made his professional debut with the Buffaloes in 2000. He was named an NPB All-Star in 2003 and 2004, and played in the 2004 Athens Olympics. He joined the Eagles in 2005. As the Eagles' reigning staff ace, Iwakuma won the Eiji Sawamura Award in 2005, and was also an NPB All-Star that year.",
+        "labels": "He appeared in the 2009 World Baseball Classic for the Japanese national team.",
+        "concept": "hisashi iwakuma",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The position played on team / speciality of hisashi iwakuma is",
+                    "ground_truth": [
+                        "starting pitcher"
+                    ]
+                },
+                {
+                    "prompt": "hisashi iwakuma position played on team / speciality",
+                    "ground_truth": [
+                        "starting pitcher"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about john liscio. John Liscio (1949 - November 29, 2000) was an American journalist covering finance and the economy, as well as an independent financial analyst. He was the founder of the influential bond market newsletter, \"The Liscio Report\". Liscio was born to Armand and Josephine Liscio in Manhattan and matriculated from Fordham Preparatory School in the Bronx to Fordham University, where he earned a bachelor's degree. He served in the Marine Corps before becoming a financial writer and analyst in the late 1970s.",
+        "labels": "He was a senior editor at \"U.S. News & World Report\" and worked at \"Barron's\" in the late 1980s into the early 1990s.",
+        "concept": "john liscio",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of john liscio is",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                },
+                {
+                    "prompt": "john liscio country of citizenship",
+                    "ground_truth": [
+                        "United States of America"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "text": "This is a Wikipedia passage about micky moody. Michael Joseph \"Micky\" Moody (born 30 August 1950) is an English guitarist, and a former member of the rock bands Juicy Lucy and Whitesnake. He was also a founder-member of Snafu.",
+        "labels": "Together with his former Whitesnake colleague Bernie Marsden, he founded the Moody Marsden Band, and later, The Snakes, having previously collaborated with unofficial fifth Status Quo member Bob Young in Young & Moody.",
+        "concept": "micky moody",
+        "locality": {
+            "Relation_Specificity": [
+                {
+                    "prompt": "The country of citizenship of micky moody is",
+                    "ground_truth": [
+                        "United Kingdom"
+                    ]
+                },
+                {
+                    "prompt": "micky moody country of citizenship",
+                    "ground_truth": [
+                        "United Kingdom"
+                    ]
+                }
+            ]
+        }
+    }
+]
